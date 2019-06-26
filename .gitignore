@@ -1,0 +1,5 @@
+/docs/
+/venv/
+/src/models/*
+/imgs/
+.idea
